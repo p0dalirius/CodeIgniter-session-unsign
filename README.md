@@ -19,7 +19,7 @@
 
 ```
 $ ./CodeIgniter-session-unsign.py -h
-CodeIgniter-session-unsign v1.1 - by @podalirius_
+CodeIgniter-session-unsign v1.1 - by Remi GASCOU (Podalirius)
 
 usage: CodeIgniter-session-unsign.py [-h] [-u URL | -c COOKIE] -w WORDLIST [-t THREADS] [-k] [--md5 MD5 | --sha1 SHA1 | --sha256 SHA256]
 

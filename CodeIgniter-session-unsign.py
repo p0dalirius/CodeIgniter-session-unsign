@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 
 def parseArgs():
-    print("CodeIgniter-session-unsign v1.1 - by @podalirius_\n")
+    print("CodeIgniter-session-unsign v1.1 - by Remi GASCOU (Podalirius)\n")
 
     parser = argparse.ArgumentParser(description="Description message")
     group_source = parser.add_mutually_exclusive_group()
